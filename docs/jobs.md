@@ -8,9 +8,17 @@
 | Brand | EVOLUTION |
 | Website | https://www.evolution.com |
 | Career | https://careers.evolution.com/romania/en/ |
-| LastScraped | 2026-10-08 |
+| LastScraped | 2026-10-09 |
 
-## Jobs (5)
+## Jobs (6)
+
+### Talent Acquisition Specialist
+
+- **URL**: [https://careers.evolution.com/job/744000154654507/](https://careers.evolution.com/job/744000154654507/)
+- **Location**: Bucuresti
+- **Work Mode**: on-site
+- **Tags**: Human Resources
+- **Status**: scraped
 
 ### Senior Talent Acquisition Specialist
 
@@ -53,4 +61,4 @@
 - **Status**: scraped
 
 ---
-_Generated at 2026-10-08T13:14:16Z_
+_Generated at 2026-10-09T13:00:44Z_
