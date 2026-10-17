@@ -8,9 +8,17 @@
 | Brand | EVOLUTION |
 | Website | https://www.evolution.com |
 | Career | https://careers.evolution.com/romania/en/ |
-| LastScraped | 2026-10-16 |
+| LastScraped | 2026-10-17 |
 
-## Jobs (6)
+## Jobs (7)
+
+### Facilities Coordinator
+
+- **URL**: [https://careers.evolution.com/job/744000155984419/](https://careers.evolution.com/job/744000155984419/)
+- **Location**: Bucuresti
+- **Work Mode**: on-site
+- **Tags**: Property Management
+- **Status**: scraped
 
 ### Talent Acquisition Specialist
 
@@ -61,4 +69,4 @@
 - **Status**: scraped
 
 ---
-_Generated at 2026-10-16T11:09:47Z_
+_Generated at 2026-10-17T10:29:11Z_
