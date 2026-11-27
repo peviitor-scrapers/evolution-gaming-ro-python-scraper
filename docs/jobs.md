@@ -8,17 +8,9 @@
 | Brand | EVOLUTION |
 | Website | https://www.evolution.com |
 | Career | https://careers.evolution.com/romania/en/ |
-| LastScraped | 2026-11-26 |
+| LastScraped | 2026-11-27 |
 
-## Jobs (7)
-
-### Facilities Supervisor
-
-- **URL**: [https://careers.evolution.com/job/744000159172344/](https://careers.evolution.com/job/744000159172344/)
-- **Location**: Bucuresti
-- **Work Mode**: on-site
-- **Tags**: Property Management
-- **Status**: scraped
+## Jobs (6)
 
 ### Talent Acquisition Specialist
 
@@ -69,4 +61,4 @@
 - **Status**: scraped
 
 ---
-_Generated at 2026-11-26T16:43:15Z_
+_Generated at 2026-11-27T16:28:58Z_
